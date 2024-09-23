@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **nabingurung82@gmail.com**
 
-- ⚡ Fun fact **Sure! Here’s a fun fact you can use for your GitHub profile: 🌟 "When I'm not architecting robust software solutions, you can find me strategizing over a soccer tournament or diving into the world of machine learning with C#. Let’s code the future together!"**
+- ⚡ Fun fact **🌟 "When I'm not architecting robust software solutions, you can find me strategizing over a soccer tournament or diving into the world of machine learning with C#. Let’s code the future together!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
